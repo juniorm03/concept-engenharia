@@ -12,7 +12,7 @@ export default function Footer() {
                     <Image
                         src={logoConcept}
                         alt="Logo da construtora Concept"
-                        className="w-20 h-20"
+                        className="w-40 h-40"
                     />
 
                     
