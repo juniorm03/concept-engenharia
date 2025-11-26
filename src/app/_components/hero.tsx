@@ -7,7 +7,7 @@ export function Hero(){
             
             <div className="container mx-auto py-16 px-4 relative">
 
-                <article className="grid grid-cols-2 gap-8">
+                <article className="grid grid-cols-1 md:grid-cols-2 gap-8">
             
                     <div>
                         <Galeria />
